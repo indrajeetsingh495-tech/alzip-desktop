@@ -1,0 +1,9 @@
+# Exclude build artifacts
+# This file is used to override language statistics
+# Text file normalization
+*.gif binary
+
+**/*.py linguist-detectable
+* text=auto
+public/*.html linguist-vendored
+# eof 2b6e5b87
